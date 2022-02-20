@@ -1,5 +1,5 @@
 # openSeesPy-GUI
-A GUI for openSeesPy pre and post process display
+A GUI for openSeesPy pre and post process display (current version only supports pre display)
 ##########################################################################    
 Author: Junjun Guo([HomePage](https://github.com/Junjun1guo))    
 E-mail: guojj@tongji.edu.cn/guojj_ce@163.com    
