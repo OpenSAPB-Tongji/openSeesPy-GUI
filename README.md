@@ -14,3 +14,7 @@ ______
 5. After installation, run openSeesPyGUI as Administrator
 6. Click loadResultDB button, and load the result database (eg. resultsDB_1.db file in the example)
 7. Display model and mode shapes with toolbars
+
+
+<img src="https://github.com/Junjun1guo/openSeesPy-GUI/blob/main/model.JPG" width =100% height =100% div align="center">
+<img src="https://github.com/Junjun1guo/openSeesPy-GUI/blob/main/modeShape.JPG" width =100% height =100% div align="center">　
